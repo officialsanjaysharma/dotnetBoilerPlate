@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\dotnetBoilerplate\\dotnetBoilerplate.csproj": {}
+    "/home/sanjay/Documents/Personal/dotnetBoilerplate/dotnetBoilerplate.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\dotnetBoilerplate\\dotnetBoilerplate.csproj": {
+    "/home/sanjay/Documents/Personal/dotnetBoilerplate/dotnetBoilerplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\dotnetBoilerplate\\dotnetBoilerplate.csproj",
+        "projectUniqueName": "/home/sanjay/Documents/Personal/dotnetBoilerplate/dotnetBoilerplate.csproj",
         "projectName": "dotnetBoilerplate",
-        "projectPath": "D:\\Personal\\dotnetBoilerplate\\dotnetBoilerplate.csproj",
-        "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\dotnetBoilerplate\\obj\\",
+        "projectPath": "/home/sanjay/Documents/Personal/dotnetBoilerplate/dotnetBoilerplate.csproj",
+        "packagesPath": "/home/sanjay/.nuget/packages/",
+        "outputPath": "/home/sanjay/Documents/Personal/dotnetBoilerplate/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\offic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/sanjay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +56,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -81,16 +78,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

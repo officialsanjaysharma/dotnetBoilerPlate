@@ -20,10 +20,10 @@ namespace UserApi.Models
     {
         [BsonId]        //  To designate this property as the document's primary key
         [BsonRepresentation(BsonType.ObjectId)]   // To Allow passing the parameter as a type
-        public int Id { get; set; }
+        public string Id { get; set; }
         public string Name { get; set; }
         public string Phone { get; set; }
         // DOB:Date of birth
-        public DateTime DOB { get; set; }
+        public String DOB { get; set; }
     }
 }

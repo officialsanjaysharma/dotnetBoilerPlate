@@ -1,6 +1,5 @@
-using UserApi.Models;
 using Microsoft.EntityFrameworkCore;
-
+using dotnetBoilerplate.Models;
 namespace Data
 {
     public class POCContext : DbContext
@@ -9,6 +8,6 @@ namespace Data
         {
         }
 
-        public DbSet<User> User { get; set; }
+        public DbSet<Book> User { get; set; }
     }
 }
