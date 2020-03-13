@@ -1,0 +1,16 @@
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\dotnetBoilerplate.deps.json
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\dotnetBoilerplate.runtimeconfig.json
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\dotnetBoilerplate.runtimeconfig.dev.json
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\dotnetBoilerplate.dll
+D:\Personal\dotnetBoilerplate\bin\Debug\netcoreapp2.1\dotnetBoilerplate.pdb
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.csprojAssemblyReference.cache
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.RazorAssemblyInfo.cache
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.RazorAssemblyInfo.cs
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.AssemblyInfoInputs.cache
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.AssemblyInfo.cs
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.RazorTargetAssemblyInfo.cache
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.dll
+D:\Personal\dotnetBoilerplate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.pdb
