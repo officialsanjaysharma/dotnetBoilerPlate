@@ -28,3 +28,5 @@ D:/Personal/dotnetBoilerplate/obj/Debug/netcoreapp2.1/dotnetBoilerplate.pdb
 /home/sanjay/Documents/Personal/dotnetBoilerplate/obj/Debug/netcoreapp2.1/dotnetBoilerplate.RazorTargetAssemblyInfo.cache
 /home/sanjay/Documents/Personal/dotnetBoilerplate/obj/Debug/netcoreapp2.1/dotnetBoilerplate.dll
 /home/sanjay/Documents/Personal/dotnetBoilerplate/obj/Debug/netcoreapp2.1/dotnetBoilerplate.pdb
+D:\Personal\dotnetBoilerPlate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.dll
+D:\Personal\dotnetBoilerPlate\obj\Debug\netcoreapp2.1\dotnetBoilerplate.pdb
